@@ -17,7 +17,9 @@ password=secret
 
 Starting the server
 python
+```
 python app.py
+```
 
 
 # Backend API
