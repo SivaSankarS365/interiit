@@ -7,12 +7,13 @@ Setting up postgres
 
 Create `database.ini` file in root folder and add following in it
 
+```
 [postgresql]
 host=localhost
 database=interiit
 user=postgres
 password=secret
-
+```
 
 Starting the server
 python
